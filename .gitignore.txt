@@ -1,2 +1,0 @@
-#Para ignorar el archivo passwords
-passwords.txt
